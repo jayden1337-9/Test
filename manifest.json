@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "description": "Adds a crash button in settings",
+  "authors": [
+    { "name": "Jayden" }
+  ],
+  "main": "dist/index.js",
+  "version": "1.0.0"
+}
