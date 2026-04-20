@@ -4,6 +4,6 @@
   "authors": [
     { "name": "Jayden" }
   ],
-  "main": "index.ts",
+  "main": "dist/index.js",
   "version": "1.0.0"
 }
